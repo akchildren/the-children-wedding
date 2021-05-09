@@ -8,9 +8,9 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="https://startbootstrap.github.io/startbootstrap-agency/assets/img/team/1.jpg" alt="..." />
-                    <h4>Kay Garland</h4>
-                    <p class="text-muted">Lead Designer</p>
+                    <img class="mx-auto rounded-circle" src="{{asset('img/Danny.jpg')}}" alt="..." />
+                    <h4>Danny Tull</h4>
+                    <p class="text-muted">Best man 1</p>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -18,9 +18,9 @@
             </div>
             <div class="col-lg-4">
                 <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="https://startbootstrap.github.io/startbootstrap-agency/assets/img/team/2.jpg" alt="..." />
-                    <h4>Larry Parker</h4>
-                    <p class="text-muted">Lead Marketer</p>
+                    <img class="mx-auto rounded-circle" src="{{asset('img/liam.jpeg')}}" alt="..." />
+                    <h4>Liam Askew</h4>
+                    <p class="text-muted">Best Man 2</p>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -28,9 +28,9 @@
             </div>
             <div class="col-lg-4">
                 <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="https://startbootstrap.github.io/startbootstrap-agency/assets/img/team/3.jpg" alt="..." />
-                    <h4>Diana Petersen</h4>
-                    <p class="text-muted">Lead Developer</p>
+                    <img class="mx-auto rounded-circle" src="{{asset('img/Ruth.jpg')}}" alt="..." />
+                    <h4>Ruth Geraghty</h4>
+                    <p class="text-muted">Maid of Honor</p>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                     <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
