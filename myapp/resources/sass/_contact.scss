@@ -1,3 +1,6 @@
 section#contact {
-    background-color: #ddece4;
+    background-color: $form-background;
+    .section-heading {
+        color: $core-color;
+    }
 }

@@ -11,9 +11,9 @@
                     <img class="mx-auto rounded-circle" src="{{asset('img/Danny.jpg')}}" alt="..." />
                     <h4>Danny Tull</h4>
                     <p class="text-muted">Best man 1</p>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="mailto:danny@dtull.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/zorbeen98"><i class="fa fa-facebook"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+447852346972"><i class="fa fa-whatsapp"></i></a>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -21,9 +21,9 @@
                     <img class="mx-auto rounded-circle" src="{{asset('img/liam.jpeg')}}" alt="..." />
                     <h4>Liam Askew</h4>
                     <p class="text-muted">Best Man 2</p>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="mailto:danny@dtull.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/liam.askew1"><i class="fa fa-facebook"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+447393194288"><i class="fa fa-whatsapp"></i></a>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -31,9 +31,9 @@
                     <img class="mx-auto rounded-circle" src="{{asset('img/Ruth.jpg')}}" alt="..." />
                     <h4>Ruth Geraghty</h4>
                     <p class="text-muted">Maid of Honor</p>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="mailto:danny@dtull.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://www.facebook.com/ruth.geraghty.7"><i class="fa fa-facebook"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fa fa-whatsapp"></i></a>
                 </div>
             </div>
         </div>
