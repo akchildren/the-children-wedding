@@ -1,4 +1,4 @@
-$video-tint : #b6a8b7;
+$video-tint : #aec5b9;
 .main-header {
     position: relative;
     background-color: $video-tint;
@@ -33,12 +33,12 @@ $video-tint : #b6a8b7;
         left: 0;
         height: 100%;
         width: 100%;
-        background-color: black;
+        background-color: $video-tint;
         opacity: 0.5;
         z-index: 1;
     }
     @media (pointer: coarse) and (hover: none) {
-        background: url('https://miro.medium.com/max/10944/1*FjfYKbYlB29iDonBxs-ncg.jpeg') black no-repeat center center scroll;
+        background: url('https://miro.medium.com/max/10944/1*FjfYKbYlB29iDonBxs-ncg.jpeg') $video-tint no-repeat center center scroll;
 
         video {
             display: none;
