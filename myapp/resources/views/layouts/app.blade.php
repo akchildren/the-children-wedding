@@ -27,6 +27,7 @@
 <!-- Third party plugin JS-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
 <script href="{{ asset('js/scripts.js') }}" rel="stylesheet"></script>
+<script href="{{ asset('js/contact_me.js') }}" rel="stylesheet"></script>
 
 </body>
 </html>
