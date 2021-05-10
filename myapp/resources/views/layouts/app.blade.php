@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Website for Adam's and Rachel's wedding <3" />
     <meta name="author" content="Adam Children" />
+    <meta name="robots" content="noindex">
     <link rel="icon"
           type="image/png"
           href="{{asset('img/logo-removebg-preview-crop.png')}}" />
