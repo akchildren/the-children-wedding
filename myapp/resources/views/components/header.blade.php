@@ -7,8 +7,9 @@
     <div class="container h-100">
         <div class="d-flex h-100 text-center align-items-center">
             <div class="w-100 text-white">
-                <h1 class="display-3">Adam's & Rachel's Wedding</h1>
-                <p class="lead mb-0">15-08-2021</p>
+{{--                <h1 class="display-3">Adam's & Rachel's Wedding</h1>--}}
+                <img src="{{asset('img/logo-removebg-preview-crop.png')}}" alt="..." />
+{{--                <p class="lead mb-0">15-08-2021</p>--}}
             </div>
         </div>
     </div>

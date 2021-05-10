@@ -1,5 +1,14 @@
-@use 'template';
-@use 'video';
-@use 'contact';
-@use 'nav';
-@use 'clients';
+@import 'varriables';
+@import 'template';
+@import 'video';
+@import 'contact';
+@import 'nav';
+@import 'clients';
+
+h1, h2, h3 {
+    color: $core-color;
+}
+
+#map {
+    height: 100%;
+}
