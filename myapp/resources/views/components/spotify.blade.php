@@ -1,6 +1,6 @@
 <section class="page-section" id="playlist">
     <div class="container">
-        <div class="container row text-center">
+        <div class="row text-center">
             <h2 class="section-heading text-uppercase">Wedding Playlist</h2>
             <p class="large text-muted">We are giving our guests the opportunity to place song requests before the wedding. <br>
                 This playlist will be kept up to date with suggestions provided and hopefully will have a mix of songs that everyone can enjoy.</p>

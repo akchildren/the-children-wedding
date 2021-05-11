@@ -4,6 +4,7 @@
 @import 'contact';
 @import 'nav';
 @import 'clients';
+@import 'team-members';
 
 h1, h2, h3 {
     color: $core-color;
@@ -11,4 +12,12 @@ h1, h2, h3 {
 
 #map {
     height: 100%;
+}
+
+#location {
+    padding: 4rem 0;
+    background-color: $background-client;
+    h1, h2, h3 {
+        color: white;
+    }
 }
