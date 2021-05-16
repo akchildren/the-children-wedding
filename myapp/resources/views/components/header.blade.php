@@ -14,3 +14,8 @@
         </div>
     </div>
 </header>
+<div class="row countdown-row">
+    <div class="container text-center">
+        <p id="countdown"></p>
+    </div>
+</div>
