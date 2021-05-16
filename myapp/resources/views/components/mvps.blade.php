@@ -69,7 +69,7 @@
             </div>
             <div class="col-lg-2">
                 <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="{{asset('img/Holly.jpg')}}" alt="..." />
+                    <img class="mx-auto rounded-circle" src="{{asset('img/holly-new.jpg')}}" alt="..." />
                     <h4>Holly Milner</h4>
                     <p class="text-muted">Bridesmaid</p>
                 </div>
