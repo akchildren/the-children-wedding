@@ -1,6 +1,22 @@
 #mainNav {
     background-color: $secondary-color;
+
     .navbar-toggler {
         background-color: $third-color;
+    }
+
+    @media (min-width: 991.98px) {
+        .RSVP {
+            background-color: white;
+            color: $secondary-color !important;
+            border: 1px solid $core-color;
+            margin-top: -25px;
+            padding: 30px 30px 40px;
+            position: absolute;
+        }
+    }
+    .navbar-nav .nav-item .nav-link {
+        font-family: Georgia,Times,"Times New Roman",serif !IMPORTANT;
+        font-style: italic;
     }
 }
