@@ -27,21 +27,21 @@
             <div class="col-lg-2">
                 <div class="team-member">
                     <img class="mx-auto rounded-circle" src="{{asset('img/unknown.png')}}" alt="..." />
-                    <h4>TBA</h4>
+                    <h4>Seb Durrant</h4>
                     <p class="text-muted">Groomsman</p>
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="team-member">
                     <img class="mx-auto rounded-circle" src="{{asset('img/unknown.png')}}" alt="..." />
-                    <h4>TBA</h4>
+                    <h4>Raymond Lay</h4>
                     <p class="text-muted">Groomsman</p>
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="team-member">
                     <img class="mx-auto rounded-circle" src="{{asset('img/unknown.png')}}" alt="..." />
-                    <h4>TBA</h4>
+                    <h4>Daniel Jones</h4>
                     <p class="text-muted">Groomsman</p>
                 </div>
             </div>
