@@ -12,7 +12,7 @@
                 <a href="https://kerryannduffy.com/kent-surrey-wedding-photographer/"><img class="img-fluid img-brand d-block mx-auto" src="https://kerryannduffy.com/wp-content/uploads/2020/03/kerry-ann-duffy.png" alt="..." /></a>
             </div>
             <div class="col-md-3 col-sm-6 my-3">
-                <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="https://www.20-20sounds.com/assets_frontend/20-20sounds/img/logo.png" alt="..." /></a>
+                <a href="https://www.chicweddings.co.uk/"><img class="img-fluid img-brand d-block mx-auto" src="https://www.chicweddings.co.uk/images/chic-weddings-events-kent.png" alt="..." /></a>
             </div>
         </div>
     </div>
