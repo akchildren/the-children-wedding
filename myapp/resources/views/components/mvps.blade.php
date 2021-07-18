@@ -2,6 +2,32 @@
 <section class="page-section bg-light" id="team">
     <div class="container">
         <div class="text-center">
+            <h2 class="section-heading text-uppercase">Hosts</h2>
+            <h3 class="section-subheading text-muted">Bride & Groom</h3>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-md-3 ">
+                <div class="team-member team-member-main">
+                    <img class="mx-auto rounded-circle" src="{{asset('img/adam.jpg')}}" alt="..." />
+                    <h4>Adam Children</h4>
+                    <p class="text-muted">Groom</p>
+                    <a class="btn btn-dark btn-social mx-2" href="mailto:danny@dtull.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+447852346972"><i class="fa fa-whatsapp"></i></a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="team-member team-member-main">
+                    <img class="mx-auto rounded-circle" src="{{asset('img/rachel-2.jpg')}}" alt="..." />
+                    <h4>Rachel Franklin</h4>
+                    <p class="text-muted">Bride</p>
+                    <a class="btn btn-dark btn-social mx-2" href="mailto:liamaskew@yahoo.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+                    <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+447393194288"><i class="fa fa-whatsapp"></i></a>
+                </div>
+            </div>
+        </div>
+        <hr>
+
+        <div class="text-center">
             <h2 class="section-heading text-uppercase">Groomsmen</h2>
             <h3 class="section-subheading text-muted">Our saviours</h3>
         </div>
@@ -46,6 +72,8 @@
                 </div>
             </div>
         </div>
+
+        <hr>
         <div class="text-center">
             <h2 class="section-heading text-uppercase">Bridesmaids</h2>
             <h3 class="section-subheading text-muted">Our saviours</h3>
@@ -88,9 +116,6 @@
                     <p class="text-muted">Bridesmaid</p>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
         </div>
     </div>
 </section>
