@@ -1,13 +1,13 @@
-@component('mail::message')
 
-This is the RSVP form response.
 
-Name: {{$name}}
-Email: {{$email}}
-Phone: {{$phone}}
+<h1>This is the RSVP form response.</h1>
 
-@if($message)
-Message: {{$message}}
+Name: {{$name}} <br>
+Email: {{$email}} <br>
+Phone: {{$phone}} <br>
+
+@if($oMessage)
+Message: {{$oMessage}} <br>
 @endif
 
-@endcomponent
+<small>Sent directly from {{env('APP_URL')}}</small>
