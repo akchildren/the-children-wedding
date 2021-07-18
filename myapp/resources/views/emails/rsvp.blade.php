@@ -2,12 +2,12 @@
 
 This is the RSVP form response.
 
-Name: {{$attributes['name']}}
-Email: {{$attributes['email']}}
-Phone: {{$attributes['phone']}}
+Name: {{$name}}
+Email: {{$email}}
+Phone: {{$phone}}
 
-@isset($attributes['message'])
-    Message: {{$attributes['message']}}
+@if($message)
+Message: {{$message}}
 @endif
 
 @endcomponent
