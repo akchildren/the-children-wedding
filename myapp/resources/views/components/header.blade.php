@@ -7,7 +7,7 @@
     <div class="container h-100">
         <div class="d-flex h-100 text-center align-items-center">
             <div class="w-100 text-white">
-                <img src="{{asset('img/logos/wedding-logo.png')}}" alt="..." />
+                <img src="{{asset('img/logos/wedding-logo.png')}}" alt="..." class="main-wedding-logo"/>
             </div>
         </div>
     </div>
