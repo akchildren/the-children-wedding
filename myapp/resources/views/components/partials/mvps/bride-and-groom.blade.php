@@ -18,7 +18,7 @@
             <h4>Rachel Franklin</h4>
             <p class="text-muted">Bride</p>
             <a class="btn btn-dark btn-social mx-2" href="mailto:franklinrachel@outlook.com?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
-            <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+447393194288"><i class="fa fa-whatsapp"></i></a>
+            <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+447415795674"><i class="fa fa-whatsapp"></i></a>
         </div>
     </div>
 </div>
