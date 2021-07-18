@@ -14,7 +14,6 @@
       <path value="$PROJECT_DIR$/myapp/vendor/brick/math" />
       <path value="$PROJECT_DIR$/myapp/vendor/nikic/php-parser" />
       <path value="$PROJECT_DIR$/myapp/vendor/facade/flare-client-php" />
-      <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition" />
       <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition-contracts" />
       <path value="$PROJECT_DIR$/myapp/vendor/league/commonmark" />
       <path value="$PROJECT_DIR$/myapp/vendor/league/flysystem" />
@@ -34,7 +33,6 @@
       <path value="$PROJECT_DIR$/myapp/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/myapp/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/myapp/vendor/doctrine/lexer" />
-      <path value="$PROJECT_DIR$/myapp/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/myapp/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/myapp/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/myapp/vendor/fideloper/proxy" />
@@ -108,6 +106,8 @@
       <path value="$PROJECT_DIR$/myapp/vendor/composer" />
       <path value="$PROJECT_DIR$/myapp/vendor/ramsey/uuid" />
       <path value="$PROJECT_DIR$/myapp/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/myapp/vendor/fakerphp/faker" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

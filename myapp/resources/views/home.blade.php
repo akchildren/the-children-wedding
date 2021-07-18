@@ -16,6 +16,8 @@
 
     @include('components.spotify')
 
+    @include('components.honeyfund')
+
     @include('components.map')
 
     @include('components.contact-form')

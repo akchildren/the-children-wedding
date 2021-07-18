@@ -20,7 +20,6 @@
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/brick/math" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/nikic/php-parser" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/facade/flare-client-php" />
-      <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/facade/ignition" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/facade/ignition-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/league/commonmark" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/league/flysystem" />
@@ -40,7 +39,6 @@
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/doctrine/inflector" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/doctrine/instantiator" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/doctrine/lexer" />
-      <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/fakerphp/faker" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/hamcrest/hamcrest-php" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/fideloper/proxy" />
@@ -114,6 +112,8 @@
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/ramsey/uuid" />
       <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/myapp/vendor/fakerphp/faker" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
