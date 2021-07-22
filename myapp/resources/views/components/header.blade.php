@@ -12,8 +12,8 @@
         </div>
     </div>
 </header>
-<div class="row countdown-row">
-    <div class="container text-center">
+<div class="container-fluid">
+    <div class="row countdown-row text-center">
         <p id="countdown"></p>
     </div>
 </div>
