@@ -5,6 +5,7 @@ References:
 * https://hub.docker.com/r/bitnami/laravel (Docker-compose image)
 * https://twill.io/ (CMS)
 * https://startbootstrap.com/previews/agency (Website Boilerplate)
+* https://uk.godaddy.com/community/VPS-Dedicated-Servers/How-to-install-Docker-docker-compose-and-Nginx-Proxy-Manager-on/td-p/175707 (Installing docker on GoDaddy)
 
 # Starting Site Locally
 ```
