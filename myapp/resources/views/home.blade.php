@@ -12,13 +12,7 @@
     @include('components.nav')
     @include('components.header')
     <!-- Success message -->
-    @if(Session::has('success'))
-        <div class="container-fluid" style="padding-bottom: 0;margin-bottom: 0 !important;">
-            <div class="row alert alert-success text-center">
-                <p>{{Session::get('success')}}</p>
-            </div>
-        </div>
-    @endif
+    @include('components.alerts.success')
 {{--    @include('components.stories')--}}
     @include('components.mvps')
 
