@@ -23,7 +23,7 @@
     </div>
     <div class="col-lg-2">
         <div class="team-member">
-            <img class="mx-auto rounded-circle" src="{{asset('img/people/unknown.png')}}" alt="..." />
+            <img class="mx-auto rounded-circle" src="{{asset('img/people/seb.jpg')}}" alt="..." />
             <h4>Seb Durrant</h4>
             <p class="text-muted">Groomsman</p>
         </div>

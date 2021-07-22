@@ -12,7 +12,6 @@
       <path value="$PROJECT_DIR$/myapp/vendor/opis/closure" />
       <path value="$PROJECT_DIR$/myapp/vendor/asm89/stack-cors" />
       <path value="$PROJECT_DIR$/myapp/vendor/brick/math" />
-      <path value="$PROJECT_DIR$/myapp/vendor/nikic/php-parser" />
       <path value="$PROJECT_DIR$/myapp/vendor/facade/flare-client-php" />
       <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition-contracts" />
       <path value="$PROJECT_DIR$/myapp/vendor/league/commonmark" />
@@ -20,7 +19,6 @@
       <path value="$PROJECT_DIR$/myapp/vendor/league/mime-type-detection" />
       <path value="$PROJECT_DIR$/myapp/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/myapp/vendor/egulias/email-validator" />
-      <path value="$PROJECT_DIR$/myapp/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/myapp/vendor/laravel/sail" />
       <path value="$PROJECT_DIR$/myapp/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/myapp/vendor/mockery/mockery" />
@@ -68,7 +66,6 @@
       <path value="$PROJECT_DIR$/myapp/vendor/phpunit/php-text-template" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/process" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/css-selector" />
-      <path value="$PROJECT_DIR$/myapp/vendor/phpunit/phpunit" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/deprecation-contracts" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/polyfill-intl-normalizer" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/error-handler" />
@@ -106,8 +103,11 @@
       <path value="$PROJECT_DIR$/myapp/vendor/composer" />
       <path value="$PROJECT_DIR$/myapp/vendor/ramsey/uuid" />
       <path value="$PROJECT_DIR$/myapp/vendor/psr/http-factory" />
-      <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition" />
       <path value="$PROJECT_DIR$/myapp/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/myapp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/myapp/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/myapp/vendor/laravel/framework" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
