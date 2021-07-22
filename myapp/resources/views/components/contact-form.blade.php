@@ -5,12 +5,6 @@
             <h2 class="section-heading text-uppercase">RSVP</h2>
             <h3 class="section-subheading text-muted">If you are able to attend the wedding, please use the RSVP form bellow to let us know :)</h3>
         </div>
-        <!-- Success message -->
-        @if(Session::has('success'))
-            <div class="alert alert-success">
-                {{Session::get('success')}}
-            </div>
-        @endif
         <form id="contactForm" method="post" action="{{ route('contact') }}">
             @csrf
             <div class="row align-items-stretch mb-5">
