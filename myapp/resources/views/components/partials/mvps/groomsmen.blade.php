@@ -31,14 +31,16 @@
     <div class="col-lg-2">
         <div class="team-member">
             <img class="mx-auto rounded-circle" src="{{asset('img/people/unknown.png')}}" alt="..." />
-            <h4>Raymond Lay</h4>
+{{--            <h4>Raymond Lay</h4>--}}
+            <h4>TBC</h4>
             <p class="text-muted">Groomsman</p>
         </div>
     </div>
     <div class="col-lg-2">
         <div class="team-member">
             <img class="mx-auto rounded-circle" src="{{asset('img/people/unknown.png')}}" alt="..." />
-            <h4>Daniel Jones</h4>
+{{--            <h4>Daniel Jones</h4>--}}
+            <h4>TBC</h4>
             <p class="text-muted">Groomsman</p>
         </div>
     </div>
