@@ -1,4 +1,4 @@
-<section class="page-section row text-center" id="location">
+<section class="page-section text-center" id="location">
     <div class="container">
         <h2 class="section-heading text-uppercase">Venue Location</h2>
     </div>
