@@ -5,22 +5,23 @@
             <p class="large text-muted">We are giving our guests the opportunity to place song requests before the wedding. <br>
                 This playlist will be kept up to date with suggestions provided and hopefully will have a mix of songs that everyone can enjoy.</p>
             <div class="col-md-6">
-                <form id="contactForm" name="sentMessage" novalidate="novalidate">
+                <form id="playlistForm" name="sentMessage" method="post" action="{{ route('playlist') }}">
+                    @csrf
                     <div class="row align-items-stretch mb-5">
                         <div class="form-group">
-                            <input class="form-control" id="artist" type="text" placeholder="Artist Name *"
+                            <input class="form-control" id="artist" type="text" name="artist" placeholder="Artist Name *"
                                    required="required"
                                    data-validation-required-message="Please enter the artist name."/>
                             <p class="help-block text-danger"></p>
                         </div>
                         <div class="form-group">
-                            <input class="form-control" id="song" type="email" placeholder="Song Name *"
+                            <input class="form-control" id="song" type="text" name="song" placeholder="Song Name *"
                                    required="required"
                                    data-validation-required-message="Please enter the song name."/>
                             <p class="help-block text-danger"></p>
                         </div>
                         <div class="form-group mb-md-0">
-                            <input class="form-control" id="full-name" type="tel" placeholder="Your Full Name *"
+                            <input class="form-control" id="name-playlist" type="text" name="name" placeholder="Your Full Name *"
                                    required="required" data-validation-required-message="Please enter your full name."/>
                             <p class="help-block text-danger"></p>
                         </div>

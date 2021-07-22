@@ -20,6 +20,6 @@ class ContactController extends Controller
             $message->to(env('MAIL_TO'))->subject('RSVP: Request ' . $request->name);
         });
 
-        return redirect()->back()->with('success', 'Thanks for your message! We will get back to you soon!');
+        return redirect()->back()->with('success', 'Thanks for your suggestion! Can\'t wait to see you at the wedding!');
     }
 }
