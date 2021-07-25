@@ -3,7 +3,7 @@
     <div class="container">
         <div class="text-center">
             <h2 class="section-heading text-uppercase">RSVP</h2>
-            <h3 class="section-subheading text-muted">If you are able to attend the wedding, please use the RSVP form bellow to let us know :)</h3>
+            <h3 class="section-subheading text-muted">If you are able to attend the wedding, please use the RSVP form below to let us know :)</h3>
         </div>
         <form id="contactForm" method="post" action="{{ route('contact') }}">
             @csrf
