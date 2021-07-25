@@ -1,5 +1,6 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,9 +14,16 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Auth::routes(['register' => false, 'password/reset' => false, 'password/email' => false]);
+
 Route::get('/', function () {
-    return view('home');
+    return view('login');
 });
 
-Route::post('/contact', 'ContactController')->name('contact');
-Route::post('/playlist', 'PlaylistController')->name('playlist');
+Route::middleware(['web', 'custom_auth'])->group(function(){
+    Route::get('/home', function () {
+        return view('home');
+    })->name('home');
+    Route::post('/contact', 'ContactController')->name('contact');
+    Route::post('/playlist', 'PlaylistController')->name('playlist');
+});
