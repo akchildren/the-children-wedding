@@ -1,7 +1,5 @@
 <?php
 
-use App\Http\Controllers\ContactController;
-use App\Http\Controllers\PlaylistController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -19,5 +17,5 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::post('/contact', ContactController::class)->name('contact');
-Route::post('/playlist', PlaylistController::class)->name('playlist');
+Route::post('/contact', 'ContactController')->name('contact');
+Route::post('/playlist', 'PlaylistController')->name('playlist');
