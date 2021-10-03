@@ -8,7 +8,7 @@
                 <div style="width:200px;margin:0 auto;">
                     <a href="http://www.honeyfund.co.uk/wedding/children-franklin-08-15-2022"
                        style="text-align:left;
-                                           background:url('{{asset('public/img/logos/honeyfund.png')}}') no-repeat;
+                                           background:url('{{asset(env('ASSET_LOCATION').'/img/logos/honeyfund.png')}}') no-repeat;
                                            display:block;
                                            width:200px;
                                            height:100px;

@@ -1,24 +1,19 @@
 <?php
 namespace App\Http\Middleware;
 
-use App\Providers\RouteServiceProvider;
 use Closure;
-use Illuminate\Http\Request;
-use Illuminate\Cookie\Middleware\EncryptCookies as Middleware;
-use Illuminate\Support\Facades\Auth;
 
-class CustomAuth extends Middleware
+class CustomAuth
 {
-
     /**
      * Handle an incoming request.
      *
-     * @param  Request  $request
-     * @param  Closure  $next
-     * @param  string|null  ...$guards
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Closure  $next
+     * @param  string|null  $guard
      * @return mixed
      */
-    public function handle(Request $request, Closure $next, ...$guards)
+    public function handle($request, Closure $next)
     {
         if (!empty(session('authenticated'))) {
             $request->session()->put('authenticated', time());
