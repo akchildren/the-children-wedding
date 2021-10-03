@@ -21,6 +21,7 @@
     @include('components.honeyfund')
 
     @include('components.map')
+    @include('components.hotel')
 
     @include('components.contact-form')
     @include('components.clients')
