@@ -10,10 +10,10 @@ class CustomAuth
      *
      * @param  \Illuminate\Http\Request  $request
      * @param  \Closure  $next
-     * @param  string|null  $guard
+     * @param  string|null  ...$guards
      * @return mixed
      */
-    public function handle($request, Closure $next)
+    public function handle($request, Closure $next, ...$guards)
     {
         if (!empty(session('authenticated'))) {
             $request->session()->put('authenticated', time());

@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ContactController;
+use App\Http\Controllers\PlaylistController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -24,6 +26,6 @@ Route::middleware(['web', 'custom_auth'])->group(function(){
     Route::get('/home', function () {
         return view('home');
     })->name('home');
-    Route::post('/contact', 'ContactController')->name('contact');
-    Route::post('/playlist', 'PlaylistController')->name('playlist');
+    Route::post('/contact', ContactController::class)->name('contact');
+    Route::post('/playlist', PlaylistController::class)->name('playlist');
 });
