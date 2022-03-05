@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
     <script src="https://use.fontawesome.com/3f9e0b1a49.js"></script>
     <link href="{{ asset(env('ASSET_LOCATION').'/css/app.css') }}" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="{{asset(env('ASSET_LOCATION')."/img/logos/wedding-logo.png")}}">
     <title>{{"Adam's & Rachel's Wedding" }}</title>
 </head>
 <body class="page-top">
