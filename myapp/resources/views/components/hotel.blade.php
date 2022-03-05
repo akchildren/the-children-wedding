@@ -13,7 +13,7 @@
                 </div>
             </div>
             <p class="medium text-muted mt-3"><strong style="color: #e76d8b;">If you have already booked a room at the Hilton, you would have received an email and a full refund.
-                <br>If you did book using hitlon, you can call this number up and rebook the same room.
+                <br>If you did book using Hilton, you can call this number up and rebook the same room.
                 </strong></p>
 
         </div>

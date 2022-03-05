@@ -15,6 +15,7 @@ class ContactController extends Controller
             'email' => $request->get('email'),
             'phone' => $request->get('phone'),
             'oMessage' => $request->get('message'),
+            'food' => $request->get('food'),
         ), function($message) use ($request){
             $message->from(trim($request->email));
             $message->to(env('MAIL_TO'))->subject('RSVP: Request ' . $request->name);

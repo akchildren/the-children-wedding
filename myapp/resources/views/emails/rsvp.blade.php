@@ -6,6 +6,8 @@ Name: {{$name}} <br>
 Email: {{$email}} <br>
 Phone: {{$phone}} <br>
 
+Food Menu Options: {{$food}} <br>
+
 @if($oMessage)
 Message: {{$oMessage}} <br>
 @endif
