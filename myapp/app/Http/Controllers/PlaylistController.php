@@ -19,6 +19,6 @@ class PlaylistController extends Controller
             $message->to(trim(env('MAIL_TO')))->subject('Playlist: Request ' . $request->name);
         });
 
-        return redirect()->back()->with('success', 'Thanks for your suggestion! We give this a listen!');
+        return redirect()->back()->with('success', 'Thanks for your suggestion! We will give this a listen!');
     }
 }
