@@ -3,7 +3,8 @@
         <div class="row text-center">
             <h2 class="section-heading text-uppercase">Hotel</h2>
             <p class="large text-muted">We have arranged a bulk deal with the Orida Hotels to provide discounted rooms on the wedding day.<br>
-                To book your room, use the phone number provided to call them and say you are booking under the reference of <strong>"Rachel Franklin".</strong></p>
+                To book your room, use the phone number provided to call them and say you are booking under the reference of <strong>"Rachel Franklin".</strong>
+                <br><strong>Please request an early check in!</strong></p>
             <h3>Phone Number: <a href="tel:01622 734 322" class="Blondie">01622 734 322</a></h3>
             <div class="col-md-12 mt-3">
                 <div style="width:200px;margin:0 auto;">

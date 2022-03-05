@@ -13,6 +13,7 @@
     @include('components.header')
     <!-- Success message -->
     @include('components.alerts.success')
+    @include('components.timings')
 {{--    @include('components.stories')--}}
     @include('components.mvps')
 

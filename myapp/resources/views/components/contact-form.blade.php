@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="form-group form-group-textarea mb-md-0">
-                        <textarea class="form-control" id="food" name="food" rows="3" placeholder="Food Selection"
+                        <textarea class="form-control" id="food" name="food" rows="3" placeholder="Food Selection*"
                                   data-validation-required-message="Any allergies?"></textarea>
                         @if ($errors->has('food'))
                             <p class="help-block text-danger">
