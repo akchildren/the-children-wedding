@@ -8,7 +8,7 @@
             <h3>Phone Number: <a href="tel:01622 734 322" class="Blondie">01622 734 322</a></h3>
             <div class="col-md-12 mt-3">
                 <div style="width:200px;margin:0 auto;">
-                    <a href="http://eventsathilton.com/show/614afbeb37069e683859a5f2">
+                    <a href="https://www.oridahotels.com/">
                         <img src="https://www.oridahotels.com/wp-content/uploads/2021/11/orida-hotel-top-logo.svg" style="width: 100%">
                     </a>
                 </div>
