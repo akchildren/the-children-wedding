@@ -23,6 +23,7 @@
 
     @include('components.map')
     @include('components.hotel')
+    @include('components.taxis')
 
     @include('components.contact-form')
     @include('components.clients')

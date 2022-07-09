@@ -11186,11 +11186,11 @@ h1, h2, h3 {
   height: 100%;
 }
 
-#location {
+#location, #Taxis {
   padding: 4rem 0;
   background-color: #b0d0c4;
 }
-#location h1, #location h2, #location h3 {
+#location h1, #location h2, #location h3, #Taxis h1, #Taxis h2, #Taxis h3 {
   color: white;
 }
 

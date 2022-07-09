@@ -92,13 +92,10 @@
       <path value="$PROJECT_DIR$/myapp/vendor/nette/utils" />
       <path value="$PROJECT_DIR$/myapp/vendor/nette/schema" />
       <path value="$PROJECT_DIR$/myapp/vendor/dflydev/dot-access-data" />
-      <path value="$PROJECT_DIR$/myapp/vendor/laravel/serializable-closure" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/polyfill-php81" />
       <path value="$PROJECT_DIR$/myapp/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/myapp/vendor/symfony/translation" />
-      <path value="$PROJECT_DIR$/myapp/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/myapp/vendor/facade/flare-client-php" />
-      <path value="$PROJECT_DIR$/myapp/vendor/laravel/tinker" />
       <path value="$PROJECT_DIR$/myapp/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/myapp/vendor/filp/whoops" />
       <path value="$PROJECT_DIR$/myapp/vendor/nunomaduro/collision" />
@@ -106,14 +103,18 @@
       <path value="$PROJECT_DIR$/myapp/vendor/phpunit/php-code-coverage" />
       <path value="$PROJECT_DIR$/myapp/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/myapp/vendor/laravel/ui" />
-      <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition" />
       <path value="$PROJECT_DIR$/myapp/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/myapp/vendor/guzzlehttp/guzzle" />
       <path value="$PROJECT_DIR$/myapp/vendor/guzzlehttp/promises" />
-      <path value="$PROJECT_DIR$/myapp/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/myapp/vendor/laravel/sail" />
-      <path value="$PROJECT_DIR$/myapp/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/myapp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/myapp/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/myapp/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/myapp/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/myapp/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/myapp/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/myapp/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/myapp/vendor/psy/psysh" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />
