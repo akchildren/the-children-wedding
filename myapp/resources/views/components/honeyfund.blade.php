@@ -17,6 +17,9 @@
                     </a>
                 </div>
             </div>
+            <br><p class="large text-muted">If you would prefer to do a bank transfer.
+                You can contact us via the whatsapp links underneath our <strong><a href="#bag">images</a></strong> for our account details.</p>
+
         </div>
     </div>
 </section>

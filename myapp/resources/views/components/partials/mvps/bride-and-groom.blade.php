@@ -1,4 +1,4 @@
-<div class="text-center">
+<div class="text-center" id="bag">
     <h2 class="section-heading text-uppercase">Hosts</h2>
     <h3 class="section-subheading text-muted">Bride & Groom</h3>
 </div>

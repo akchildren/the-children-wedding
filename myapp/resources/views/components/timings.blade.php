@@ -7,6 +7,8 @@
                 <li class="list-group-item"><strong>Day Guest Arrival Time:</strong> <span class="c-time">12:30pm</span></li>
                 <li class="list-group-item"><strong>Ceremony Time:</strong> <span class="c-time">1pm</span></li>
                 <li class="list-group-item"><strong>Evening Guest Arrival Time:</strong> <span class="c-time">7pm</span></li>
+                <li class="list-group-item"><strong>Bar and Music Close:</strong> <span class="c-time">12:30am</span></li>
+                <li class="list-group-item"><strong>Carriage pick-up:</strong> <span class="c-time">01:00am</span></li>
             </ul>
         </div>
     </div>
