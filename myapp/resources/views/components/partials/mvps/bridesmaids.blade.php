@@ -8,7 +8,7 @@
             <img class="mx-auto rounded-circle" src="{{asset(env('ASSET_LOCATION').'/img/people/ruth.jpg')}}" alt="..." />
             <h4>Ruth Geraghty</h4>
             <p class="text-muted">Maid of Honor</p>
-            <a class="btn btn-dark btn-social mx-2" href="mailto:danny@dtull.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+            <a class="btn btn-dark btn-social mx-2" href="mailto:john@dooh.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fa fa-whatsapp"></i></a>
         </div>
     </div>
