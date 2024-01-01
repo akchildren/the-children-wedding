@@ -1,5 +1,5 @@
 # Wedding
-Adams and Rachels Wedding Website
+Adams and Rachels Wedding Website (Built using laravel)
 
 References:
 * https://hub.docker.com/r/bitnami/laravel (Docker-compose image)
