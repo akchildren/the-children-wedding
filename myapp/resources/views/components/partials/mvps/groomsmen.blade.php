@@ -8,7 +8,7 @@
             <img class="mx-auto rounded-circle" src="{{asset(env('ASSET_LOCATION').'/img/people/danny.jpg')}}" alt="..." />
             <h4>Danny Tull</h4>
             <p class="text-muted">Best man 1</p>
-            <a class="btn btn-dark btn-social mx-2" href="mailto:danny@dtull.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+            <a class="btn btn-dark btn-social mx-2" href="mailto:john@dooh.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
             <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone="><i class="fa fa-whatsapp"></i></a>
         </div>
     </div>
@@ -17,7 +17,7 @@
             <img class="mx-auto rounded-circle" src="{{asset(env('ASSET_LOCATION').'/img/people/liam.jpeg')}}" alt="..." />
             <h4>Liam Askew</h4>
             <p class="text-muted">Best Man 2</p>
-            <a class="btn btn-dark btn-social mx-2" href="mailto:liamaskew@yahoo.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
+            <a class="btn btn-dark btn-social mx-2" href="mailto:john@dooh.co.uk?subject=Adam%20and%20Rachel%27s%20Wedding"><i class="fa fa-envelope"></i></a>
             <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone="><i class="fa fa-whatsapp"></i></a>
         </div>
     </div>
